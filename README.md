@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Javier+Carreira;AI+Engineer+%7C+Gen+AI+Specialist;Building+the+Future+with+LLMs+%26+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Javier+Carreira;AI+Engineer+%7C+Gen+AI+Specialist;Building+the+Future+with+AI+Agents" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,16 +21,16 @@ class AIEngineer:
         self.focus = ["Generative AI", "LLMs", "RAG Systems", "AI Agents"]
         self.current_work = [
             "Building production-ready Gen AI applications",
-            "Experimenting with LLM architectures and fine-tuning",
+            "Experimenting with agentic architectures",
             "Developing intelligent AI agents and workflows"
         ]
         self.interests = ["Formula 1", "Chess", "Astrophysics", "Piano"]
 
     def get_tech_stack(self):
         return {
-            "languages": ["Python", "R", "JavaScript"],
-            "ai_ml": ["PyTorch", "Transformers", "LangChain", "LlamaIndex"],
-            "frameworks": ["FastAPI", "Flask", "Streamlit"],
+            "languages": ["Python", "JavaScript", "TypeScript],
+            "ai_ml": ["PyTorch", "Transformers", "LangChain", "LangGraph"],
+            "frameworks": ["FastAPI", "React"],
             "cloud": ["AWS", "Azure"],
             "databases": ["PostgreSQL", "MongoDB", "Vector DBs"]
         }
@@ -107,15 +107,9 @@ class AIEngineer:
 
 ### 💡 *"Building intelligent systems that understand, reason, and create"*
 
-![Snake animation](https://raw.githubusercontent.com/SupernovaIa/SupernovaIa/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
----
-
 <div align="center">
-
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=SupernovaIa&icon=0&color=6)
 
   *⚡ Fun fact: I fuel my AI work with Formula 1 speed, chess strategy, astrophysics curiosity, and piano melodies*
 
