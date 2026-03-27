@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Javier+Carreira;AI+Engineer+%7C+Gen+AI+Specialist;Building+the+Future+with+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Javier+Carreira;AI+Engineer+%7C+Gen+AI+Specialist;Educator+%7C+Building+AI+Agents+%26+LLMs;Welcome+to+SupernovaIa+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,34 +11,39 @@
 
 ---
 
-### 🤖 About Me
+## 🧑‍💻 About Me · Javier Carreira — AI Engineer & AI Educator
+
+I'm **Javier Carreira** ([@SupernovaIa](https://github.com/SupernovaIa)), an **AI Engineer** based in Spain, specializing in **Generative AI**, **Large Language Models (LLMs)**, **RAG systems**, and **Agentic Architectures**.
+
+I build production-ready AI applications and teach professionals how to harness the power of modern AI — from prompt engineering to autonomous multi-agent systems.
 
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Javier Carreira"
-        self.role = "AI Engineer"
-        self.focus = ["Generative AI", "LLMs", "RAG Systems", "AI Agents"]
+        self.name        = "Javier Carreira"
+        self.username    = "SupernovaIa"
+        self.roles       = ["AI Engineer", "Gen AI Specialist", "AI Educator"]
+        self.focus       = ["Generative AI", "LLMs", "RAG Systems", "AI Agents"]
         self.current_work = [
             "Building production-ready Gen AI applications",
-            "Experimenting with agentic architectures",
-            "Developing intelligent AI agents and workflows"
+            "Experimenting with agentic architectures & LangGraph",
+            "Teaching AI to developers and professionals"
         ]
-        self.interests = ["Formula 1", "Chess", "Astrophysics", "Piano"]
+        self.interests   = ["Formula 1 🏎️", "Chess ♟️", "Astrophysics 🔭", "Piano 🎹"]
 
     def get_tech_stack(self):
         return {
-            "languages": ["Python", "JavaScript", "TypeScript],
-            "ai_ml": ["PyTorch", "Transformers", "LangChain", "LangGraph"],
-            "frameworks": ["FastAPI", "React"],
-            "cloud": ["AWS", "Azure"],
-            "databases": ["PostgreSQL", "MongoDB", "Vector DBs"]
+            "languages":  ["Python", "JavaScript", "TypeScript"],
+            "ai_ml":      ["PyTorch", "Transformers", "LangChain", "LangGraph"],
+            "frameworks": ["FastAPI", "React", "Streamlit"],
+            "cloud":      ["AWS", "Azure"],
+            "databases":  ["PostgreSQL", "MongoDB", "Vector DBs (Chroma, Pinecone)"]
         }
 ```
 
 ---
 
-### 🚀 Gen AI & ML Stack
+## 🚀 Gen AI & ML Stack
 
 <div align="center">
 
@@ -81,7 +86,22 @@ class AIEngineer:
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
+
+> A selection of my work in AI Engineering, LLMs, RAG systems and Data Science.
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 **[AI Agents & LangGraph](https://github.com/SupernovaIa)** | Agentic workflows with multi-step reasoning and tool use | LangGraph · LangChain · OpenAI |
+| 🔍 **[RAG Systems](https://github.com/SupernovaIa)** | Production-ready Retrieval-Augmented Generation pipelines | LangChain · Chroma · FastAPI |
+| 📊 **[Data Science Projects](https://github.com/SupernovaIa)** | EDA, ML models and visualization dashboards | Pandas · scikit-learn · Plotly |
+| 🎓 **[AI Education Materials](https://github.com/SupernovaIa)** | Notebooks and resources for learning Gen AI | Python · Jupyter · HuggingFace |
+
+> 💡 **Explore all my repositories** → [github.com/SupernovaIa?tab=repositories](https://github.com/SupernovaIa?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SupernovaIa&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="170"/>
@@ -95,10 +115,38 @@ class AIEngineer:
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupernovaIa&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📬 Contact & Links
+
+<div align="center">
+
+| Channel | Link |
+|---------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/javier-carreira-c](https://linkedin.com/in/javier-carreira-c) |
+| 🐙 **GitHub** | [github.com/SupernovaIa](https://github.com/SupernovaIa) |
+| 📧 **Email** | Available via LinkedIn |
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+Are you working on an **AI project**, need help with **LLMs / RAG / Agents**, or want to **learn Generative AI**?
+
+**⭐ Star a repo** · **🔀 Open a PR** · **📩 Reach out on LinkedIn**
+
+> *Whether you're a developer, researcher, or business — let's build something intelligent together.*
+
 </div>
 
 ---
@@ -107,10 +155,8 @@ class AIEngineer:
 
 ### 💡 *"Building intelligent systems that understand, reason, and create"*
 
-</div>
+*⚡ Fuelled by Formula 1 speed, chess strategy, astrophysics curiosity, and piano melodies*
 
-<div align="center">
-
-  *⚡ Fun fact: I fuel my AI work with Formula 1 speed, chess strategy, astrophysics curiosity, and piano melodies*
+**— Javier Carreira · AI Engineer · [@SupernovaIa](https://github.com/SupernovaIa)**
 
 </div>
