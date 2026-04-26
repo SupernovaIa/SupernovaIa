@@ -81,14 +81,6 @@ class AIEngineer:
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupernovaIa&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Building intelligent systems that understand, reason, and create"*
