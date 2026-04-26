@@ -76,7 +76,7 @@ class AIEngineer:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SupernovaIa&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SupernovaIa&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=SupernovaIa&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" height="170"/>
 </div>
 
 ---
