@@ -29,6 +29,18 @@ class AIEngineer:
 
 ---
 
+## 📚 Learning Roadmap
+
+<div align="center">
+
+[![AI Engineering Roadmap](https://img.shields.io/badge/AI%20Engineering%20Roadmap-View%20the%20ecosystem-6366F1?style=for-the-badge)](https://github.com/SupernovaIa/ai-engineering-roadmap)
+
+An open-source, structured path to becoming an AI engineer — from dev foundations to production-ready systems. 8 repos live so far: Git, Bash & Python fundamentals, OOP, FastAPI, DevOps, and hexagonal architecture for AI agents.
+
+</div>
+
+---
+
 ## 🚀 Gen AI & ML Stack
 
 <div align="center">
