@@ -8,7 +8,7 @@
 
 I'm an **AI Engineer** based in Spain, building production-ready AI applications and teaching professionals how to work with modern AI — from prompt engineering to autonomous multi-agent systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-carreira-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-carreira-c)
 [![AI Engineering Roadmap](https://img.shields.io/badge/AI%20Engineering%20Roadmap-View%20the%20ecosystem-6366F1?style=for-the-badge)](https://github.com/SupernovaIa/ai-engineering-roadmap)
 
 ---
